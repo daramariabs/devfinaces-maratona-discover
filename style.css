@@ -105,6 +105,10 @@ header {
     text-align: center;
 }
 
+header img {
+    padding-bottom:20px ;
+}
+
 #logo {
     color: #fff;
     font-weight: 100;
